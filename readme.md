@@ -37,3 +37,7 @@ Erklären Sie hier, wie Sie das Passwort aus Ihrer lokalen `.env` auf Azure übe
 3. "New application setting" drücken
 4. Name: PASSWORT, Value: matteo-jakob
 5. Speichern
+
+## Link zur Webseite
+
+https://jakobmatteolb-324.azurewebsites.net/
